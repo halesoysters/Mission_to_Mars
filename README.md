@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project used Python to scrape news headlines, images, and data from around the web and present it on its own website using flask and mongo.  I used Java to write the `index.html` file with links to a stylesheet to make the page pop with embedded content and customizable features.  
+This project used Python to scrape news headlines, images, and data from around the web and present it on its own website using flask and mongo And BeautifulSoup.  I used Java to write the `index.html` file with links to a stylesheet to make the page pop with embedded content and customizable features.  
 
 ## Results
 
